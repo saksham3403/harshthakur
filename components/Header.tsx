@@ -32,7 +32,7 @@ const Header: React.FC = () => {
                     onClick={(e) => scrollToSection(e, '#hero')} 
                     className="text-2xl font-bold font-playfair tracking-wider text-white cursor-pointer"
                 >
-                    HT
+                    HR
                 </a>
                 <nav className="hidden md:flex space-x-8">
                     {navLinks.map((link) => (
