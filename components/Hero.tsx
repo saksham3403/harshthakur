@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
 
             <div className="relative z-20 px-4">
                 <h1 className="text-6xl md:text-8xl lg:text-9xl font-black font-playfair tracking-tighter animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
-                    Harsh Thakur
+                    HRCREATIONS
                 </h1>
                 <p className="mt-4 text-xl md:text-2xl text-gray-300 tracking-wider animate-fade-in-up" style={{ animationDelay: '0.5s' }}>
                     CAPTURING MOMENTS, CREATING MEMORIES
